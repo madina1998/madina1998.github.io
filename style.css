@@ -1,0 +1,28 @@
+body
+{
+    background-image: url(https://www.zastavki.com/pictures/1366x768/2014/Backgrounds_Wallpapers_with_gradient_background_082013_24.jpg);
+}
+
+logo
+{
+    width: 50%;
+    height: 50%;
+}
+.bord
+{
+    border: 1px;
+}
+ a {
+    color: #008000; /* Цвет обычной ссылки */
+    text-decoration: none; /* Убираем подчеркивание у ссылок */
+   }
+   a:visited {
+    color: #800080; /* Цвет посещённой ссылки */
+   }
+   a:hover {
+    color: #800000; /* Цвет ссылки при наведении на нее курсора мыши */
+    text-decoration: underline; /* Добавляем подчеркивание */
+   }
+  .foot{
+       padding: 100px;
+   }
